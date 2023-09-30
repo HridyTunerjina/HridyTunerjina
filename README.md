@@ -1,7 +1,7 @@
 ![ A passionate Web Developer](https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif)
 
-# Hi there 👋, I am Hridy
-###  A passionate Web Developer
+# Hi 👋, I am Hridy
+##  A passionate Web Developer
 
 Welcome To My Personal GitHub Profile. My Self Hridy. I Am Junior Web Developer. I Love To Learn Something New & Teaching Someone. If You Want To Contact Me Then Just Knock Me Here https://www.facebook.com/profile.php?id=100078489346657&mibextid=ZbWKwL
 
