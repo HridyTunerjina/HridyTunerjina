@@ -1,6 +1,7 @@
+![A passionate Web developer from Bangladesh](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)
+
 # Hi 👋, I am Hridy
 ## A passionate Web developer from Bangladesh
-![A passionate Web developer from Bangladesh](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)
 
 Welcome To My Personal GitHub Profile. My Self Hridy. I Am Junior Web Developer. I Love To Learn Something New & Teaching Someone. If You Want To Contact Me Then Just Knock Me Here https://www.facebook.com/profile.php?id=100078489346657&mibextid=ZbWKwL
 
