@@ -1,4 +1,4 @@
-# Hi there 👋, I am Hridy
+# Hi 👋, I am Hridy
 #### A passionate Web developer from Bangladesh
 ![A passionate Web developer from Bangladesh](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)
 
