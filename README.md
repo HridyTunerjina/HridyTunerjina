@@ -12,10 +12,15 @@ Welcome To My Personal GitHub Profile. My Self Hridy. I Am Junior Web Developer.
 ✅HTML  
 ✅CSS
 
-- 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning Java, JS 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Python, Java, HTML, CSS, JS 
+- 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently learning **Java,JS**
+
+- 👯 I’m looking to collaborate on **GitHub**
+
+- 💬 Ask me about **Python,Web Development**
+
+- 📫 How to reach me **hridyt9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,8 +29,6 @@ Welcome To My Personal GitHub Profile. My Self Hridy. I Am Junior Web Developer.
 <a href="https://instagram.com/itsmehridy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmehridy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hridytunerjina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hridytunerjina" height="30" width="40" /></a>
 </p>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HridyTunerjina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100078489346657&mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/itsmehridy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@HridyTunerjina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@hridytunerjina6017)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
