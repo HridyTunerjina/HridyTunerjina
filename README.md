@@ -5,11 +5,12 @@
 
 Welcome To My Personal GitHub Profile. My Self Hridy. I Am Junior Web Developer. I Love To Learn Something New & Teaching Someone. If You Want To Contact Me Then Just Knock Me Here https://www.facebook.com/profile.php?id=100078489346657&mibextid=ZbWKwL
 
-Skills: ✅PYTHON  
-        ✅JAVA  
-        ✅JS  
-        ✅HTML  
-        ✅CSS
+#### Skills: 
+✅PYTHON  
+✅JAVA  
+✅JS  
+✅HTML  
+✅CSS
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning Java, JS 
