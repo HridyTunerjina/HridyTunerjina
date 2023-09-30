@@ -1,4 +1,4 @@
-![A passionate Web Developer ](https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif)
+![I am GitHub Readme Generator's creator](https://camo.githubusercontent.com/95a8f8600af35a1848f10a6d8caf6db62d1d46bee79f0f0055719ba4d0fac628/68747470733a2f2f7777772e6d79776562776f726c642e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f7765622d64657369676e2d6b6572616c612e676966)
 
 # Hi 👋, I'm Hridy
 ## A passionate Web Developer 
