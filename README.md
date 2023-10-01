@@ -37,6 +37,6 @@ Welcome To My Personal GitHub Profile. My Self Hridy Tunerjina. I Am Junior Web 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HridyTunerjina) 
 
-<h1 align="center">Thank you and ❤ for sticking around me 🙂</h1>
+<h1 align="center">Thank you and ❤️ for sticking around me 🙂</h1>
 
 ![I am GitHub Readme Generator's creator](https://www.pngkit.com/png/full/840-8406605_download-holi-color-background-png.png)
