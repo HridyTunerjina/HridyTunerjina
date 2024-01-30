@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hridy 🙋‍♀️</h1>
 <h2 align="center"> A passionate Web Developer</h2>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" /> </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/632ac7cf05f27bc62e2d46a4bd4272abb3e55330b818325fc2025d436ed0060e/68747470733a2f2f7777772e6d79776562776f726c642e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f7765622d64657369676e2d6b6572616c612e676966" /> </p>
 
 <h3 align="left">👩 About me:</h3>
 Welcome To My Personal GitHub Profile. My Self Hridy Tunerjina. I Am Junior Web Developer. I Love To Learn Something New & Teaching Someone. If You Want To Contact Me Then Just Knock Me Here https://www.facebook.com/profile.php?id=100078489346657&mibextid=ZbWKwL
